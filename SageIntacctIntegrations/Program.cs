@@ -1,4 +1,7 @@
 ﻿using System;
+using Intacct.SDK;
+
+
 
 namespace SageIntacctIntegrations
 {
